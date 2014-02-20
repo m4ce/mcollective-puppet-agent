@@ -1,0 +1,1 @@
+When specyfing --no-noop or --no-spray, the configuration[:no_noop]/configuration[:no_spray] is set to false. However, the code expects them to be true.
